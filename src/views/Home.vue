@@ -2,16 +2,14 @@
   <div class="home-page">
     <section class="hero">
       <h2>Welcome to What Would Olivia Benson Do?</h2>
-      <p class="tagline">Channeling strength, compassion, and justice in everyday decisions</p>
+      <p class="tagline">Because she's not just a detective—she's also a therapist, doctor, lawyer, social worker, tech expert, and somehow has done literally everything</p>
     </section>
 
     <section class="content">
       <div class="intro-card">
         <h3>🎯 The Olivia Benson Approach</h3>
         <p>
-          Lieutenant Olivia Benson, the iconic character from Law & Order: SVU, represents 
-          unwavering dedication to justice, empathy for victims, and the courage to stand 
-          up for what's right. This site helps you navigate life's challenges with her wisdom.
+          She's not just a detective—she's a therapist, doctor, lawyer, tech wizard, and expert in literally every field imaginable. Because apparently one job wasn't enough.
         </p>
       </div>
 
@@ -19,28 +17,32 @@
         <h3>Common Scenarios</h3>
         <div class="scenario-grid">
           <div class="scenario-card">
-            <h4>🤝 Workplace Conflict</h4>
-            <p>Address issues directly with empathy, document everything, and advocate for fair treatment.</p>
+            <h4>🩺 Need Medical Advice?</h4>
+            <p>Don't call a doctor—Liv will diagnose you in the interrogation room and somehow know exactly which medications you need. Is she board certified? Who cares!</p>
           </div>
           <div class="scenario-card">
-            <h4>💪 Standing Up for Others</h4>
-            <p>Be the voice for those who can't speak up. Your support can make all the difference.</p>
+            <h4>🧠 Need Therapy?</h4>
+            <p>Why see a licensed therapist when Liv can psychoanalyze your childhood trauma AND arrest the perp in under 42 minutes?</p>
           </div>
           <div class="scenario-card">
-            <h4>⚖️ Ethical Dilemmas</h4>
-            <p>Choose integrity over convenience. The right path isn't always the easiest.</p>
+            <h4>⚖️ Legal Question?</h4>
+            <p>Never mind the lawyers—Liv knows every law, statute, and loophole. She'll argue your case AND perform the arrest. Multitasking queen.</p>
           </div>
           <div class="scenario-card">
-            <h4>❤️ Self-Care</h4>
-            <p>Even heroes need rest. Take care of yourself so you can help others effectively.</p>
+            <h4>🔬 Science Problem?</h4>
+            <p>Lab results taking too long? Liv will interpret the DNA evidence herself and explain complex forensics like she has three PhDs.</p>
+          </div>
+          <div class="scenario-card">
+            <h4>🌍 Literally Anything Else?</h4>
+            <p>Nuclear physics? Bomb defusial? Ancient Greek? Astronaut training? Liv's done it all and probably taught a masterclass on it.</p>
           </div>
         </div>
       </div>
 
       <div class="quote-section">
         <blockquote>
-          "I'm a cop. I have faith in justice."
-          <footer>— Olivia Benson</footer>
+          "I'm a cop. And a therapist. And a doctor. And a lawyer. And somehow I've lived through every trauma but I'm still fine. Also I can hack and speak 47 languages."
+          <footer>— Olivia Benson (probably)</footer>
         </blockquote>
       </div>
     </section>

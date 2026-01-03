@@ -8,47 +8,48 @@
       <div class="content-card">
         <h3>The Inspiration</h3>
         <p>
-          Lieutenant Olivia Benson, portrayed brilliantly by Mariska Hargitay on 
-          <strong>Law & Order: Special Victims Unit</strong>, has become more than just 
-          a TV character. She represents resilience, compassion, and unwavering commitment 
-          to justice that resonates with millions of viewers worldwide.
+          Lieutenant Olivia Benson has been on SVU for so long that she's apparently had time to 
+          get medical degrees, law degrees, therapy licenses, computer science certifications, 
+          and a PhD in "somehow having personal experience with every single crime that walks 
+          through that door."
         </p>
         <p>
-          For over two decades, Olivia Benson has shown us how to lead with empathy while 
-          maintaining strength, how to fight for the vulnerable, and how to never give up 
-          on doing what's right—even when it's difficult.
+          The writers have blessed Liv with the supernatural ability to be an expert in literally 
+          everything. Need someone to defuse a bomb? Liv's got it. Complex neurosurgery explanation? 
+          Liv can break it down. Obscure legal precedent from 1987? Liv memorized it during her lunch break. 
+          She's not just a cop—she's a one-woman Wikipedia with a badge.
         </p>
       </div>
 
       <div class="content-card">
-        <h3>Core Principles</h3>
+        <h3>Liv's Inexplicable Superpowers</h3>
         <div class="principles-list">
           <div class="principle-item">
-            <span class="principle-icon">🛡️</span>
+            <span class="principle-icon">🎓</span>
             <div>
-              <h4>Protect the Vulnerable</h4>
-              <p>Always stand up for those who cannot stand up for themselves.</p>
+              <h4>Expert in Everything</h4>
+              <p>Medicine, law, psychology, technology, linguistics, martial arts—if it exists, Liv is somehow certified in it.</p>
             </div>
           </div>
           <div class="principle-item">
-            <span class="principle-icon">💙</span>
+            <span class="principle-icon">🔮</span>
             <div>
-              <h4>Lead with Empathy</h4>
-              <p>Understand others' perspectives and show genuine compassion.</p>
+              <h4>Psychic Detective Powers</h4>
+              <p>Walks into a room and immediately knows everyone's trauma, medical history, and deepest secrets. It's called "detective work" but it's basically mind reading.</p>
             </div>
           </div>
           <div class="principle-item">
-            <span class="principle-icon">⚡</span>
+            <span class="principle-icon">💪</span>
             <div>
-              <h4>Take Action</h4>
-              <p>Don't just observe injustice—actively work to make things right.</p>
+              <h4>Unlimited Job Responsibilities</h4>
+              <p>Why have specialists when Liv can do forensics, legal counsel, therapy sessions, and tactical operations all before lunch?</p>
             </div>
           </div>
           <div class="principle-item">
-            <span class="principle-icon">🌟</span>
+            <span class="principle-icon">🎭</span>
             <div>
-              <h4>Maintain Integrity</h4>
-              <p>Do the right thing even when no one is watching.</p>
+              <h4>Lived Every Possible Experience</h4>
+              <p>"I know what you're going through because I/my mother/my brother/my cousin's friend also went through this exact highly specific situation."</p>
             </div>
           </div>
         </div>
@@ -57,23 +58,28 @@
       <div class="content-card">
         <h3>Our Mission</h3>
         <p>
-          This website serves as a guide to help navigate life's challenges with the same 
-          courage, empathy, and determination that Olivia Benson demonstrates every day. 
-          Whether you're facing a difficult decision, standing up against injustice, or 
-          simply trying to be a better person, ask yourself: <em>"What would Olivia Benson do?"</em>
+          When faced with ANY problem—medical emergency, legal crisis, tech malfunction, existential 
+          dread, car trouble, tax questions, or alien invasion—just ask yourself: <em>"What would Olivia Benson do?"</em>
+        </p>
+        <p>
+          The answer is: she'd somehow already be an expert in that exact field, have personal experience 
+          with that specific issue, know the perfect person to call, AND solve it while maintaining 
+          perfect hair and delivering an emotional monologue.
         </p>
       </div>
 
       <div class="content-card impact-card">
-        <h3>Real-World Impact</h3>
+        <h3>But Seriously Though...</h3>
         <p>
-          Beyond the screen, the character has inspired real change. The <strong>Joyful Heart Foundation</strong>, 
-          founded by Mariska Hargitay, works to heal, educate, and empower survivors of sexual assault, 
-          domestic violence, and child abuse.
+          While we joke about Liv's omniscient superpowers, <strong>Mariska Hargitay</strong> (the actual human) 
+          is genuinely amazing and founded the <strong>Joyful Heart Foundation</strong> to help survivors of 
+          sexual assault, domestic violence, and child abuse. She doesn't need to be an expert in everything 
+          to make a real difference.
         </p>
         <p>
-          This reminds us that the principles we admire in fiction can translate into meaningful 
-          action in the real world.
+          Unlike TV Liv who has apparently mastered every profession known to humanity, real change comes 
+          from actual experts working together. But hey, if you're ever in a situation where you need a 
+          cop-therapist-doctor-lawyer-hacker, you know who to call. 📞
         </p>
       </div>
     </section>
