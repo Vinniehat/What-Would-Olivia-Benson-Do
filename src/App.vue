@@ -17,9 +17,10 @@ import Header from './components/Header.vue'
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-  background: #0a0a0a;
-  color: #e5e5e5;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #000000;
+  color: #ffffff;
+  line-height: 1.6;
 }
 
 #app {

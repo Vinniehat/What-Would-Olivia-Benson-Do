@@ -2,16 +2,10 @@
   <div class="home-page">
     <section class="hero">
       <h2>Welcome to What Would Olivia Benson Do?</h2>
-      <p class="tagline">Because she's not just a detective—she's also a therapist, doctor, lawyer, social worker, tech expert, and somehow has done literally everything</p>
+      <p class="tagline">She's not just a detective—she's a therapist, doctor, lawyer, and expert in literally every field imaginable. Because apparently one job wasn't enough.</p>
     </section>
 
     <section class="content">
-      <div class="intro-card">
-        <h3>🎯 The Olivia Benson Approach</h3>
-        <p>
-          She's not just a detective—she's a therapist, doctor, lawyer, tech wizard, and expert in literally every field imaginable. Because apparently one job wasn't enough.
-        </p>
-      </div>
 
       <div class="scenarios">
         <h3>Common Scenarios</h3>
@@ -26,7 +20,7 @@
           </div>
           <div class="scenario-card">
             <h4>⚖️ Legal Question?</h4>
-            <p>Never mind the lawyers—Liv knows every law, statute, and loophole. She'll argue your case AND perform the arrest. Multitasking queen.</p>
+            <p>Never mind the lawyers—Liv knows every law, statute, and loophole. She'll argue your case AND perform the arrest. Forget the DA! Multitasking queen.</p>
           </div>
           <div class="scenario-card">
             <h4>🔬 Science Problem?</h4>
@@ -41,7 +35,7 @@
 
       <div class="quote-section">
         <blockquote>
-          "I'm a cop. And a therapist. And a doctor. And a lawyer. And somehow I've lived through every trauma but I'm still fine. Also I can hack and speak 47 languages."
+          "I'm a cop. And a therapist. And a doctor. And a lawyer. And somehow I've lived through every trauma but I'm still fine. Also I can speak 47 languages."
           <footer>— Olivia Benson (probably)</footer>
         </blockquote>
       </div>
